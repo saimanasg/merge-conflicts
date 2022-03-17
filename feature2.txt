@@ -1,2 +1,4 @@
 Feature 2
 One more feature
+
+Making changes

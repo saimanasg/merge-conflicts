@@ -4,3 +4,6 @@ One more feature
 Manas has made some changes
 Making changes
 
+
+Explaining second method of merging
+
